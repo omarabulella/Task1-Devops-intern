@@ -2,3 +2,4 @@ Add new line at development branch
 Implement the login functionality
 case 1
 case 2
+Security fix applied
